@@ -1,0 +1,11 @@
+python DataProcessor.py \
+  --raw_file "/home/student/robo_advisor_new/base_td3/data_prep/SP500_2015_2024_raw_log_sd.csv" \
+  --embed_file "/home/student/robo_advisor_new/extract_embeddings/embedding_results/embedding_sp500_final.csv" \
+  --annual_target 0.03 \
+  --asset_list FCX DD DIS TJX COP AXP AMGN\
+  --hist_window 15 \
+  --split \
+    'train:01-01-2015|12-31-2018' \
+    'train:01-01-2021|12-31-2022' \
+    'test:2023-01-01|December 31, 2024' \
+    'validation:January 01, 2019|2020-12-31'

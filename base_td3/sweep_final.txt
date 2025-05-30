@@ -1,0 +1,369 @@
+wandb sweep sweep_final.yml
+
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: qyaqtvev
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/qyaqtvev
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/qyaqtvev
+
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 1fy82kdj
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/1fy82kdj
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/1fy82kdj
+View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/sh31daau
+
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 50ljl7bd
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/50ljl7bd
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/50ljl7bd
+wandb: Run https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/2hh1h4dx 
+
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 01onz3oc
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/01onz3oc
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/01onz3oc
+
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: itpat1ne
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/itpat1ne
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/itpat1ne
+
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: n4lqepv9
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/n4lqepv9
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/n4lqepv9
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 2ppn6sj8
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/2ppn6sj8
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/2ppn6sj8
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: xwntglhw
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/xwntglhw
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/xwntglhw
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: ezxsh36z
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/ezxsh36z
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/ezxsh36z
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/mf21jj6l
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: ik6sev2d
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/ik6sev2d
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/ik6sev2d
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: kclyn1z4
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/kclyn1z4
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/kclyn1z4
+
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: y3m2plvs
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/y3m2plvs
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/y3m2plvs
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 98mas8p4
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/98mas8p4
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/98mas8p4
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: zpe89f1q
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/zpe89f1q
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/zpe89f1q
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 73in4nng
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/73in4nng
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/73in4nng
+wandb: 🚀 View run agent-1745702110 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/4adaer9f
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 1ym777cb
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/1ym777cb
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/1ym777cb
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/muas0uku
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: m3kicmds
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/m3kicmds
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/m3kicmds
+
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 5ukwih5d
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/5ukwih5d
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/5ukwih5d
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: qgx1zg7f
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/qgx1zg7f
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/qgx1zg7f
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 14br8rhl
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/14br8rhl
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/14br8rhl
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 4xzlvoit
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/4xzlvoit
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/4xzlvoit
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/7v9javz1
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 5hzmo2wf
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/5hzmo2wf
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/5hzmo2wf
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: m6ng6cm8
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/m6ng6cm8
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/m6ng6cm8
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/phlcoid4
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 6ohyilnh
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/6ohyilnh
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/6ohyilnh
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/jj9zb7q7
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: ml87axko
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/ml87axko
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/ml87axko
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 8dhr4znn
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/8dhr4znn
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/8dhr4znn
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: lk9n088g
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/lk9n088g
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/lk9n088g
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: nn01ens3
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/nn01ens3
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/nn01ens3
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 0q0ljnml
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/0q0ljnml
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/0q0ljnml
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: dwqa4lhw
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/dwqa4lhw
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/dwqa4lhw
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: b31lqcj3
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/b31lqcj3
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/b31lqcj3
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/urylxtk8
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: sugoomu2
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/sugoomu2
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/sugoomu2
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/xbvpewo8
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 346pj2ix
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/346pj2ix
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/346pj2ix
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/svxo3a5r    
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: oajc2ylc
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/oajc2ylc
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/oajc2ylc
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/ec3fz3nx
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: efs85gqh
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/efs85gqh
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/efs85gqh
+wandb: 🚀 View run at https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/e04pp8mh
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: c43ow8wd
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/c43ow8wd
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/c43ow8wd
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 4g2t2d21
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/4g2t2d21
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/4g2t2d21
+wandb: 🚀 View run agent-1745855037 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/xou0ydpo
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 17tvzli5
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/17tvzli5
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/17tvzli5
+wandb: 🚀 View run agent-1745862883 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/qr9dxxls 
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: gkcdwp95
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/gkcdwp95
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/gkcdwp95
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: xg2832xc
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/xg2832xc
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/xg2832xc
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: m61eacd7
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/m61eacd7
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/m61eacd7
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 2lx1qoi4
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/2lx1qoi4
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/2lx1qoi4
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: urcnr0e9
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/urcnr0e9
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/urcnr0e9
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 6m3prgbv
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/6m3prgbv
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/6m3prgbv
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: tu0zaamq
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/tu0zaamq
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/tu0zaamq
+wandb: 🚀 View run agent-1745871836 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/62cb0t1n
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: soldsrwe
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/soldsrwe
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/soldsrwe
+wandb: 🚀 View run agent-1745872700 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/1alqafy3
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: l8e2uooz
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/l8e2uooz
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/l8e2uooz
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: k6nyal8w
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/k6nyal8w
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/k6nyal8w
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: ho4z5t6d
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/ho4z5t6d
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/ho4z5t6d
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: ibor6ksn
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/ibor6ksn
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/ibor6ksn
+wandb: 🚀 View run agent-1745947673 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/7kduh790
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: xgrg8zym
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/xgrg8zym
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/xgrg8zym
+
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 9uzdnhdn
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/9uzdnhdn
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/9uzdnhdn
+wandb: 🚀 View run agent-1745958869 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/5620b3pz
+
+student @ SCS-GPU-2025 : 18:07:59
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: 540hdh4v
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/540hdh4v
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/540hdh4v
+
+student @ SCS-GPU-2025 : 18:14:13
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: orq4ifem
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/orq4ifem
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/orq4ifem
+
+student @ SCS-GPU-2025 : 18:17:15
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: ygcxyf7m
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/ygcxyf7m
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/ygcxyf7m
+wandb: 🚀 View run agent-1745965143 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/qpu9awb7
+
+student @ SCS-GPU-2025 : 19:22:10
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: smb41obb
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/smb41obb
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/smb41obb
+
+student @ SCS-GPU-2025 : 22:55:49
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: kms2pwr6
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/kms2pwr6
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/kms2pwr6
+wandb: 🚀 View run agent-1745981775 at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/runs/u1264fb3
+
+student @ SCS-GPU-2025 : 00:13:40
+~/robo_advisor_new/base_td3 # wandb sweep sweep_final.yml
+wandb: Creating sweep from: sweep_final.yml
+wandb: Creating sweep with ID: j4mefsam
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor/sweeps/j4mefsam
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor/j4mefsam

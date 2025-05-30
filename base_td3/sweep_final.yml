@@ -1,0 +1,86 @@
+# This file is used to define the hyperparameter sweep for the transformer model training.
+project: robo-advisor # ← your chosen project name
+entity: chintanshah4-carleton-university # ← your W&B username or team
+
+program: sweep_final.py     # your entry-point
+method: grid                 # grid, random, bayes
+metric:
+  name: validation/sharpe
+  goal: maximize
+
+parameters:
+  hist_window:
+    values: [15]
+  pv_hist_window:
+    values: [15]
+  action_hist_window:
+    values: [15]
+  embedding_dim:
+    values: [128]
+  num_episodes:
+    values: [50]
+  validation_every:
+    values: [5]
+  alpha:
+    values: [1e-4]
+  eta_min:
+    values: [1e-6]
+  T_max:
+    values: [216]
+  beta:
+    values: [1e-4]
+  gamma:
+    values: [0.99]
+  tau:
+    values: [0.007]
+  noise_scale:
+    values: [0.1]
+  warm_up:
+    values: [60]
+  sharpe_scaling:
+    values: [0.1]
+  sharpe_scaling_monthly:
+    values: [0]
+  sharpe_scaling_yearly:
+    values: [0]
+  variance_scaling:
+    values: [0]
+  monthly_variance_scaling:
+    values: [0]
+  yearly_variance_scaling:
+    values: [0]
+  theta_max:
+    values: [3.0]
+  initial_pv:
+    values: [1000]
+  layer1_size:
+    values: [400]
+  layer2_size:
+    values: [300]
+  asset_list:
+    values:
+      - "FCX,DD,DIS,TJX,COP,AXP,AMGN"
+  use_embeds:
+    values: [true]
+  use_volume:
+    values: [true]
+  use_vol_10d:
+    values: [false]
+  use_vol_30d:
+    values: [false]
+  use_vol_90d:
+    values: [false]
+  update_every:
+    values: [40]
+  gradient_steps:
+    values: [20]
+  da_ss:
+    values: [0.1]
+  redo_training:
+    values: [false]
+  resume_training:
+    values: [false]
+  update_actor_interval:
+    values: [2]
+  
+  # if you want to sweep over assets or volume flags, you can add them here too

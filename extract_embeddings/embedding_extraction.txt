@@ -1,0 +1,15 @@
+python "/home/student/robo_advisor_new/extract_embeddings/extract_embeddings.py" \
+--unseen_data_path "/home/student/robo_advisor_new/transformer_training/data_sp_500/SP500_Transformer_Embeddings.csv" \
+--model_path "/home/student/robo_advisor_new/transformer_training/best_sweep_checkpoint/model/sp500_master_dpoiek8p_best.pth" \
+--output_dir "/home/student/robo_advisor_new/extract_embeddings/embedding_results" \
+--save_prefix embedding \
+--d_model 128 \
+--t_nhead 4 \
+--s_nhead 2 \
+--T_dropout_rate 0.1 \
+--S_dropout_rate 0.1 \
+--input_feature_ranges 0-200 \
+--gate_input_ranges 200-500 \
+--beta 0.75 \
+--window_size 15 \
+--aggregate_output True

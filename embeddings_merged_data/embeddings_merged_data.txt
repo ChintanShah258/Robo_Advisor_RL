@@ -1,0 +1,5 @@
+python embeddings_merged_data.py \
+  --initial_data_file_path "/home/student/robo_advisor/transformer_training/data_sp_500/Sample Data iter 1.csv" \
+  --embeddings_file_path "/home/student/robo_advisor/extract_embeddings/embedding_results/embedding_Google_Meta_JPM.csv" \
+  --output "/home/student/robo_advisor/embeddings_merged_data/embeddings_merged_data.csv" \
+  --date_column "Dates"

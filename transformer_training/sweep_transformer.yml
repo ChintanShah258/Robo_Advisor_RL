@@ -1,0 +1,48 @@
+# This file is used to define the hyperparameter sweep for the transformer model training.
+project: robo-advisor_transformer_training # ← your chosen project name
+entity: chintanshah4-carleton-university # ← your W&B username or team
+program: tf_pretrain.py
+method: bayes
+metric:
+  name: val_loss
+  goal: minimize
+parameters:
+  train_data_path:
+    values: ["/home/student/robo_advisor_new/transformer_training/data_sp_500/SP500_Pretrain_Transformer.csv"]
+  lr:
+    min: 1e-6
+    max: 1e-4
+    distribution: log_uniform_values
+  d_model:
+    values: [128]
+  t_nhead:
+    values: [4]
+  s_nhead:
+    values: [2]
+  T_dropout_rate:
+    values: [0.1]
+  S_dropout_rate:
+    values: [0.1]
+  lambda_contrastive:
+    values: [0.0, 0.05, 0.1]
+  temperature:
+    values: [0.05, 0.1, 0.2]
+  beta:
+    values: [0.75,1.25]
+  num_of_batches:
+    values: [1]
+  n_epochs:
+    values: [30]
+  window_size:
+    values: [50]
+  # your new feature‐selection flags
+  input_feature_ranges:
+    values: ["0-200"]        # whatever slice spec you want
+  gate_input_ranges:
+    values: ["200-500"]      # your gating slices
+  overlapping:
+    values: [False]           # whether to use overlapping windows
+  aggregate_output:
+    values: [False]
+  shuffle_windows:
+    values: [False]           # whether to use aggregation

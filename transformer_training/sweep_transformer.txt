@@ -1,0 +1,6 @@
+wandb sweep sweep_transformer.yml
+
+wandb: Creating sweep from: sweep_transformer.yml
+wandb: Creating sweep with ID: 6nj6s2tt
+wandb: View sweep at: https://wandb.ai/chintanshah4-carleton-university/robo-advisor_transformer_training/sweeps/6nj6s2tt
+wandb: Run sweep agent with: wandb agent chintanshah4-carleton-university/robo-advisor_transformer_training/6nj6s2tt --count 18
