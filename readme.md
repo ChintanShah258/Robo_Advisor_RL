@@ -3,7 +3,9 @@ This repository implements a full pipeline for market-data processing, Transform
 ├── transformer_training/
 
 ├── extract_embeddings/
+
 ├── embeddings_merged_data/
+
 └── base_td3/
 
 1. transformer_training/
