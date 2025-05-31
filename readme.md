@@ -24,11 +24,17 @@ transformer_training/
 │   └── …                          
 
 ├── pretrain_scaler.pkl             # StandardScaler fit on 2000–2014
+
 ├── model/                          # Saved checkpoints (post-pretraining)
+
 ├── best_sweep_checkpoint/          # Downloaded best‐run checkpoint from W&B
+
 ├── all_sweep_results.xlsx          # Aggregated sweep metrics
+
 ├── sweep_transformer.yml           # W&B sweep configuration
+
 ├── aggregate_sweep.py              # Fetch & aggregate W&B sweep runs  
+
 ├── pre_trained_model_chk.py        # Inspect saved .pth parameter shapes  
 ├── data_transform.py               # CSV prep + scaler fitting  
 ├── data_utils.py                   # `WindowSampler` dataset for pretraining  
