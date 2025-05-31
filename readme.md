@@ -84,6 +84,7 @@ transformer_training/
 Slides a fixed window over unseen data and produces MASTER embeddings.
 
 extract_embeddings/
+
 ├── extract_embeddings.py           # Embedding extraction script  
 ├── embedding_results/              # Output CSVs of windowed embeddings  
 ├── extract_embeddings_readme       # (text) usage notes  
@@ -132,6 +133,7 @@ mask_meta, Dates, [raw & log_sd features],
 All code for TD3 training, environment, replay buffer, logging, and hyperparameter sweeps.
 
 base_td3/
+
 ├── __init__.py
 ├── ActorNetwork.py            # TD3 actor network  
 ├── CriticNetwork.py           # TD3 critic network  
