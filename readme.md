@@ -13,11 +13,16 @@ This repository implements a full pipeline for market-data processing, Transform
 Contains everything needed to preprocess S&P 500 data and pretrain the MASTER Transformer.
 
 transformer_training/
+
 ├── data_sp_500/                    # Raw & processed CSVs
+
 │   ├── SP500_Final.csv             # Original raw data
+
 │   ├── SP500_Pretrain_Transformer.csv  # 2000–2014 scaled + Dates
+
 │   ├── SP500_Transformer_Embeddings.csv # 2015–2024 scaled + Dates
 │   └── …                          
+
 ├── pretrain_scaler.pkl             # StandardScaler fit on 2000–2014
 ├── model/                          # Saved checkpoints (post-pretraining)
 ├── best_sweep_checkpoint/          # Downloaded best‐run checkpoint from W&B
