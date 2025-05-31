@@ -1,6 +1,5 @@
 This repository implements a full pipeline for market-data processing, Transformer pretraining, embedding extraction, data merging, and TD3 reinforcement-learning for a robo-advisor. The top-level layout is:
 
-.
 ├── transformer_training/
 ├── extract_embeddings/
 ├── embeddings_merged_data/
