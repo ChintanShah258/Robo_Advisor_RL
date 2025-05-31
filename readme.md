@@ -220,27 +220,27 @@ Weights & Biases sweep (sweep_final.py)
 
 cd transformer_training \
 python data_transform.py \
-Pretrain MASTER \
+Pretrain MASTER
 
 python tf_pretrain.py [args…] \
-or launch W&B sweep \
+or launch W&B sweep
 
 Aggregate sweep & inspect \
 python aggregate_sweep.py \
 python pre_trained_model_chk.py \
-Extract embeddings \
+Extract embeddings
 
 cd ../extract_embeddings \
-python extract_embeddings.py [args…] \
+python extract_embeddings.py [args…]
 
 Merge + compute RL targets \
 run DataProcessor.py in embeddings_merged_data folder \
-python ../DataProcessor.py [args…] \
+python ../DataProcessor.py [args…]
 
 Train TD3 agent \
-cd ../base_td3 \
+cd ../base_td3
 
 run W&B sweep: sweep_final.py \
-or python main.py [args…] \
+or python main.py [args…]
 
 or grid search: sweep_runner.py
