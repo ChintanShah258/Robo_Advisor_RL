@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 This repository implements a full pipeline for market-data processing, Transformer pretraining, embedding extraction, data merging, and TD3 reinforcement-learning for a robo-advisor. The top-level layout is:
 
 .
